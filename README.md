@@ -1,0 +1,2 @@
+# Clipboard
+Clip.Figma
